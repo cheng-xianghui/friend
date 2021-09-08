@@ -1,0 +1,8 @@
+<!--template/template.wxml-->
+<template name="mytemplate">
+<view class="title">自定义template</view>
+<view>
+用户名：{{username}}
+年龄：{{age}}
+</view>
+</template>

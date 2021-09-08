@@ -1,0 +1,6 @@
+<!--pages/other/other.wxml-->
+<import src="/template/template.wxml"></import>
+<view class="container">
+<text>other</text>
+<template is="mytemplate" data="{...person}"></template>
+</view>
